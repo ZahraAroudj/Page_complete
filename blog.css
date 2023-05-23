@@ -24,3 +24,47 @@ h1{
     height: 200px;
     width: 800px;
 }
+
+section{
+    border: 1px solid black;
+}
+
+.combattants{
+    color: rgb(79, 137, 224);
+    text-align: center;
+}
+
+.article{
+    border: 1px solid aqua;
+    border-radius: 100%;
+    height: 340px;
+    width:300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+article{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.cammy{
+    border: 1px solid aqua;
+    height: 300px;
+    width: 300px;
+}
+
+footer{
+    text-align: right;
+}
+
+a:link{
+    color: #D90429 ;
+}
+a:visited{
+    color:gray;
+}
+a:hover{
+    color: #2B2D42;
+}
